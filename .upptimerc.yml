@@ -5,23 +5,25 @@ repo: Status-Monitoring-with-Upptime # The name of this repository
 sites:
   - name: I-GUIDE
     url: https://iguide.illinois.edu
-  - name: I-GUIDE Datacatalog
+  - name: I-GUIDE Data Catalog
     url: https://iguide.cuahsi.io
+  - name: I-GUIDE JupyterHub Platform
+    url: https://jupyter.iguide.illinois.edu/hub/login
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /Status-Monitoring-with-Upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://github.com/I-GUIDE/Status-Monitoring-with-Upptime/blob/master/IGUIDE_logoH_ColorMulti.jpg
+  name: I-GUIDE Status Monitoring
+  introTitle: "**I-GUIDE** website status monitoring"
+  introMessage: This is the status page for monitoring the status of the I-GUIDE website, the I-GUIDE Data Catalog, and the I-GUIDE JupyterHub platform.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: I-GUIDE
+      href: https://iguide.illinois.edu/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
