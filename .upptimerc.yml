@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /Status-Monitoring-with-Upptime
-  logoUrl: https://iguide.illinois.edu/wp-content/themes/iguide-v2/assets/images/IGUIDE_logoH_ColorMulti.png
+  logoUrl: https://iguide.illinois.edu/wp-content/themes/iguide-v2/assets/images/logo-color.png
   name: I-GUIDE Status Monitoring
   introTitle: "**I-GUIDE** website status monitoring"
   introMessage: This is the status page for monitoring the status of the I-GUIDE website, the I-GUIDE Data Catalog, and the I-GUIDE JupyterHub platform.
