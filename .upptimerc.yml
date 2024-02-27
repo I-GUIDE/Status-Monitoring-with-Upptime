@@ -21,7 +21,7 @@ status-website:
   introMessage: This is the status page for monitoring the status of the I-GUIDE website, the I-GUIDE Data Catalog, and the I-GUIDE JupyterHub platform.
   navbar:
     - title: Status
-      href: /
+      href: /Status-Monitoring-with-Upptime
     - title: I-GUIDE
       href: https://iguide.illinois.edu/
 
