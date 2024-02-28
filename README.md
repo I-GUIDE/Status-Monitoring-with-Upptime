@@ -2,6 +2,8 @@
 
 This repository contains the open-source uptime monitor and status page for [NSF I-GUIDE](http://iguide.illinois.edu/), powered by [Upptime](https://github.com/upptime/upptime).
 
+To add the url for monitoring, modify the ".upptimerc.yml" file to add the name and the url.
+
 [![Uptime CI](https://github.com/I-GUIDE/Status-Monitoring-with-Upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/I-GUIDE/Status-Monitoring-with-Upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/I-GUIDE/Status-Monitoring-with-Upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/I-GUIDE/Status-Monitoring-with-Upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/I-GUIDE/Status-Monitoring-with-Upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/I-GUIDE/Status-Monitoring-with-Upptime/actions?query=workflow%3A%22Graphs+CI%22)
