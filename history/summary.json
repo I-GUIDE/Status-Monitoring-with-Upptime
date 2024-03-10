@@ -40,7 +40,7 @@
     "url": "https://jupyter.iguide.illinois.edu/hub/login",
     "icon": "https://icons.duckduckgo.com/ip3/jupyter.iguide.illinois.edu.ico",
     "slug": "i-guide-jupyter-hub-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 264,
     "timeMonth": 321,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 0
+    }
   }
 ]
