@@ -4,6 +4,8 @@ repo: Status-Monitoring-with-Upptime # The name of this repository
 
 sites:
   - name: I-GUIDE
+    url: https://i-guide.io
+  - name: I-GUIDE (Illinois Domain)
     url: https://iguide.illinois.edu
   - name: I-GUIDE Data Catalog
     url: https://iguide.cuahsi.io
