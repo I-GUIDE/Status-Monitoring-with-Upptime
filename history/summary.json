@@ -73,7 +73,7 @@
     "url": "https://jupyter.iguide.illinois.edu/hub/login",
     "icon": "https://icons.duckduckgo.com/ip3/jupyter.iguide.illinois.edu.ico",
     "slug": "i-guide-jupyter-hub-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "95.99%",
     "uptimeDay": "91.63%",
     "uptimeWeek": "98.80%",
