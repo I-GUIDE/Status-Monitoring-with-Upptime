@@ -11,6 +11,8 @@ sites:
     url: https://iguide.cuahsi.io
   - name: I-GUIDE JupyterHub Platform
     url: https://jupyter.iguide.illinois.edu/hub/login
+  - name: I-GUIDE Platform User Environment
+    url: https://platform.i-guide.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
