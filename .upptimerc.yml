@@ -13,6 +13,8 @@ sites:
     url: https://jupyter.iguide.illinois.edu/hub/login
   - name: I-GUIDE Platform User Environment
     url: https://platform.i-guide.io
+  - name : I-GUIDE Platform Neo4J example API (featured elements)
+    url: https://backend.i-guide.io/api/featured-resources
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
