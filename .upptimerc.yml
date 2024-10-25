@@ -7,14 +7,12 @@ sites:
     url: https://i-guide.io
   - name: I-GUIDE (Illinois Domain)
     url: https://iguide.illinois.edu
-  - name: I-GUIDE Data Catalog
-    url: https://iguide.cuahsi.io
   - name: I-GUIDE JupyterHub Platform
     url: https://jupyter.iguide.illinois.edu/hub/login
   - name: I-GUIDE Platform User Environment
     url: https://platform.i-guide.io
-  - name : I-GUIDE Platform Neo4J example API (featured elements)
-    url: https://backend.i-guide.io/api/featured-resources
+  - name : I-GUIDE Platform Neo4J example API (connected-graph)
+    url: https://backend.i-guide.io/api/connected-graph
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
