@@ -1,7 +1,7 @@
 url: https://iguide.illinois.edu
-status: up
-code: 200
-responseTime: 1460
-lastUpdated: 2025-02-05T23:15:44.107Z
+status: down
+code: 503
+responseTime: 91
+lastUpdated: 2025-02-06T04:48:41.234Z
 startTime: 2024-03-22T20:48:45.148Z
 generator: Upptime <https://github.com/upptime/upptime>
