@@ -13,6 +13,8 @@ sites:
     url: https://platform.i-guide.io
   - name : I-GUIDE Platform Neo4J example API (connected-graph)
     url: https://backend.i-guide.io/api/connected-graph
+  - name : I-GUIDE Platform Login Mini Backend
+    url: https://platform.i-guide.io:8443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
