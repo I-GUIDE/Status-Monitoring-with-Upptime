@@ -1,7 +1,7 @@
 url: https://jupyter.iguide.illinois.edu/hub/login
-status: up
-code: 200
-responseTime: 92
-lastUpdated: 2025-02-25T23:15:39.740Z
+status: down
+code: 503
+responseTime: 372
+lastUpdated: 2025-02-26T17:54:26.495Z
 startTime: 2024-02-27T21:14:41.427Z
 generator: Upptime <https://github.com/upptime/upptime>
