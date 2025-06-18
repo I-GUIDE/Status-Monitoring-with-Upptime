@@ -8,7 +8,7 @@ sites:
   - name: I-GUIDE (Illinois Domain)
     url: https://iguide.illinois.edu
   - name: I-GUIDE JupyterHub Platform
-    url: https://jupyter.iguide.illinois.edu/hub/login
+    url: https://jupyter.i-guide.io/hub/login
   - name: I-GUIDE Platform User Environment
     url: https://platform.i-guide.io
   - name : I-GUIDE Platform Neo4J example API (connected-graph)
