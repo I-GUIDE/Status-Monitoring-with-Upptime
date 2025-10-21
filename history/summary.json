@@ -269,22 +269,22 @@
   },
   {
     "name": "I-GUIDE Platform MinIO Storage",
-    "url": "https://storage.i-guide.io",
-    "icon": "https://icons.duckduckgo.com/ip3/storage.i-guide.io.ico",
+    "url": "https://console.storage.i-guide.io",
+    "icon": "https://icons.duckduckgo.com/ip3/console.storage.i-guide.io.ico",
     "slug": "i-guide-platform-min-io-storage",
     "status": "up",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
+    "uptime": "13.50%",
+    "uptimeDay": "13.50%",
+    "uptimeWeek": "13.50%",
+    "uptimeMonth": "13.50%",
+    "uptimeYear": "13.50%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-21": 1
+      "2025-10-21": 2
     }
   }
 ]
