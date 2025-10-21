@@ -16,7 +16,7 @@ sites:
   - name : I-GUIDE Platform Login Mini Backend
     url: https://platform.i-guide.io:8443
   - name : I-GUIDE Platform MinIO Storage
-    url: https://storage.i-guide.io
+    url: https://console.storage.i-guide.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
