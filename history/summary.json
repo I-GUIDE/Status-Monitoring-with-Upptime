@@ -10,10 +10,10 @@
     "uptimeWeek": "99.92%",
     "uptimeMonth": "96.24%",
     "uptimeYear": "98.98%",
-    "time": 1256,
-    "timeDay": 831,
-    "timeWeek": 689,
-    "timeMonth": 689,
+    "time": 1255,
+    "timeDay": 717,
+    "timeWeek": 721,
+    "timeMonth": 696,
     "timeYear": 1264,
     "dailyMinutesDown": {
       "2025-10-21": 8,
@@ -37,8 +37,7 @@
       "2024-12-19": 73,
       "2024-12-18": 87,
       "2024-12-17": 8,
-      "2024-10-28": 391,
-      "2024-10-27": 16
+      "2024-10-28": 391
     }
   },
   {
@@ -52,9 +51,9 @@
     "uptimeWeek": "99.86%",
     "uptimeMonth": "96.13%",
     "uptimeYear": "98.92%",
-    "time": 815,
-    "timeDay": 784,
-    "timeWeek": 461,
+    "time": 814,
+    "timeDay": 416,
+    "timeWeek": 433,
     "timeMonth": 481,
     "timeYear": 850,
     "dailyMinutesDown": {
@@ -110,8 +109,7 @@
       "2024-12-18": 86,
       "2024-12-17": 8,
       "2024-11-23": 8,
-      "2024-10-28": 391,
-      "2024-10-27": 15
+      "2024-10-28": 391
     }
   },
   {
@@ -120,16 +118,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jupyter.i-guide.io.ico",
     "slug": "i-guide-jupyter-hub-platform",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "95.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.23%",
+    "uptimeMonth": "91.52%",
     "uptimeYear": "95.46%",
-    "time": 465,
-    "timeDay": 904,
+    "time": 452,
+    "timeDay": 469,
     "timeWeek": 545,
-    "timeMonth": 529,
-    "timeYear": 459,
+    "timeMonth": 527,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2025-09-29": 869,
       "2025-09-28": 1440,
@@ -176,10 +174,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 247,
-    "timeDay": 55,
+    "timeDay": 20,
     "timeWeek": 28,
-    "timeMonth": 44,
-    "timeYear": 203,
+    "timeMonth": 40,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2025-08-13": 50,
       "2025-04-21": 19,
@@ -187,8 +185,7 @@
       "2025-03-12": 15,
       "2025-02-07": 172,
       "2024-10-31": 75,
-      "2024-10-30": 43,
-      "2024-10-27": 15
+      "2024-10-30": 43
     }
   },
   {
@@ -202,10 +199,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 568,
-    "timeWeek": 370,
-    "timeMonth": 372,
+    "time": 435,
+    "timeDay": 325,
+    "timeWeek": 358,
+    "timeMonth": 370,
     "timeYear": 436,
     "dailyMinutesDown": {}
   },
@@ -215,11 +212,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/platform.i-guide.io.ico",
     "slug": "i-guide-platform-login-mini-backend",
     "status": "down",
-    "uptime": "87.33%",
+    "uptime": "87.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.33%",
+    "uptimeYear": "87.38%",
     "time": 240,
     "timeDay": 0,
     "timeWeek": 0,
