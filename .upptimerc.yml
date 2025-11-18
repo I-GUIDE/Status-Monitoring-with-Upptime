@@ -19,8 +19,11 @@ sites:
     url: https://backend.i-guide.io/api/connected-graph
     delay: 600
   - name : I-GUIDE Platform Login Mini Backend
-    url: https://platform.i-guide.io:8443
-    delay: 600
+    url: https://platform.i-guide.io/auth/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
