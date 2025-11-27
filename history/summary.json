@@ -62,17 +62,17 @@
     "url": "https://iguide.illinois.edu",
     "icon": "https://icons.duckduckgo.com/ip3/iguide.illinois.edu.ico",
     "slug": "i-guide-illinois-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "86.34%",
+    "uptimeDay": "96.07%",
+    "uptimeWeek": "86.33%",
     "uptimeMonth": "93.47%",
     "uptimeYear": "98.88%",
-    "time": 819,
-    "timeDay": 558,
-    "timeWeek": 846,
-    "timeMonth": 839,
-    "timeYear": 873,
+    "time": 818,
+    "timeDay": 525,
+    "timeWeek": 831,
+    "timeMonth": 834,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2025-11-27": 57,
       "2025-11-25": 1071,
@@ -123,8 +123,7 @@
       "2025-05-15": 59,
       "2025-05-08": 8,
       "2025-05-07": 8,
-      "2025-04-16": 8,
-      "2025-04-15": 8
+      "2025-04-16": 8
     }
   },
   {
@@ -220,7 +219,7 @@
     "time": 436,
     "timeDay": 550,
     "timeWeek": 397,
-    "timeMonth": 442,
+    "timeMonth": 437,
     "timeYear": 445,
     "dailyMinutesDown": {}
   },
