@@ -4,19 +4,19 @@
     "url": "https://i-guide.io",
     "icon": "https://icons.duckduckgo.com/ip3/i-guide.io.ico",
     "slug": "i-guide",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "95.84%",
-    "uptimeWeek": "96.11%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "96.24%",
     "uptimeMonth": "93.07%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.51%",
     "time": 1215,
     "timeDay": 713,
     "timeWeek": 731,
     "timeMonth": 1074,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2025-12-02": 60,
+      "2025-12-02": 61,
       "2025-12-01": 30,
       "2025-11-30": 51,
       "2025-11-29": 18,
@@ -56,9 +56,7 @@
       "2025-01-30": 85,
       "2025-01-23": 7,
       "2025-01-19": 1220,
-      "2025-01-18": 285,
-      "2024-12-19": 73,
-      "2024-12-18": 87
+      "2025-01-18": 285
     }
   },
   {
@@ -66,12 +64,12 @@
     "url": "https://iguide.illinois.edu",
     "icon": "https://icons.duckduckgo.com/ip3/iguide.illinois.edu.ico",
     "slug": "i-guide-illinois-domain",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "96.01%",
-    "uptimeWeek": "96.00%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "96.14%",
     "uptimeMonth": "93.08%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "99.10%",
     "time": 809,
     "timeDay": 635,
     "timeWeek": 571,
@@ -112,8 +110,7 @@
       "2025-10-05": 152,
       "2025-10-04": 7,
       "2025-10-02": 14,
-      "2025-09-13": 8,
-      "2025-09-04": 965
+      "2025-09-13": 8
     }
   },
   {
