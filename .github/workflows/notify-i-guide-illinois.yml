@@ -1,0 +1,35 @@
+name: Notify I-GUIDE Illinois domain
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check I-GUIDE Illinois (https://iguide.illinois.edu) history
+        id: check
+        run: |
+          FILE=history/i-guide-illinois-domain.yml
+          COUNT=0
+
+          while read -r line; do
+            if echo "$line" | grep -q "status: down"; then
+              COUNT=$((COUNT+1))
+            else
+              break
+            fi
+          done < <(tac "$FILE")
+
+          echo "down_count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Notify if Illinois domain down ≥ 6 checks (~30min)
+        if: ${{ steps.check.outputs.down_count >= 6 }}
+        run: |
+          curl -X POST -H "Content-Type: application/json" \
+          -d '{"text": "I-GUIDE (https://iguide.illinois.edu) has been DOWN for at least 30 minutes"}' \
+          ${{ secrets.IGUIDE_ILLINOIS_WEBHOOK_URL }}

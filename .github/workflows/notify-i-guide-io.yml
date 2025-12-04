@@ -1,0 +1,36 @@
+name: Notify I-GUIDE main
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check I-GUIDE (https://i-guide.io) history
+        id: check
+        run: |
+          FILE=history/i-guide.yml
+          COUNT=0
+
+          # Count consecutive "status: down" from newest backwards
+          while read -r line; do
+            if echo "$line" | grep -q "status: down"; then
+              COUNT=$((COUNT+1))
+            else
+              break
+            fi
+          done < <(tac "$FILE")
+
+          echo "down_count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Notify if main I-GUIDE down ≥ 6 checks (~30min)
+        if: ${{ steps.check.outputs.down_count >= 6 }}
+        run: |
+          curl -X POST -H "Content-Type: application/json" \
+          -d '{"text": "I-GUIDE (https://i-guide.io) has been DOWN for at least 30 minutes"}' \
+          ${{ secrets.IGUIDE_MAIN_WEBHOOK_URL }}
