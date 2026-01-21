@@ -1,7 +1,7 @@
 url: https://platform.i-guide.io/auth/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-21T18:26:23.786Z
+status: up
+code: 200
+responseTime: 16
+lastUpdated: 2026-01-21T18:43:55.517Z
 startTime: 2025-02-11T15:39:55.359Z
 generator: Upptime <https://github.com/upptime/upptime>
