@@ -11,9 +11,9 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "95.52%",
     "time": 513,
-    "timeDay": 450,
-    "timeWeek": 387,
-    "timeMonth": 668,
+    "timeDay": 314,
+    "timeWeek": 411,
+    "timeMonth": 665,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2026-02-01": 3,
@@ -49,8 +49,7 @@
       "2025-06-11": 312,
       "2025-06-09": 1080,
       "2025-06-08": 569,
-      "2025-03-27": 25,
-      "2025-02-26": 21
+      "2025-03-27": 25
     }
   },
   {
@@ -64,9 +63,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 155,
-    "timeDay": 36,
-    "timeWeek": 27,
+    "time": 154,
+    "timeDay": 7,
+    "timeWeek": 26,
     "timeMonth": 31,
     "timeYear": 106,
     "dailyMinutesDown": {
@@ -95,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 435,
-    "timeDay": 430,
-    "timeWeek": 351,
-    "timeMonth": 369,
+    "timeDay": 126,
+    "timeWeek": 350,
+    "timeMonth": 366,
     "timeYear": 449,
     "dailyMinutesDown": {}
   },
@@ -107,15 +106,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/platform.i-guide.io.ico",
     "slug": "i-guide-platform-login-mini-backend",
     "status": "up",
-    "uptime": "91.41%",
+    "uptime": "91.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "91.09%",
     "time": 149,
-    "timeDay": 37,
+    "timeDay": 10,
     "timeWeek": 30,
-    "timeMonth": 35,
+    "timeMonth": 34,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2026-02-01": 3,
