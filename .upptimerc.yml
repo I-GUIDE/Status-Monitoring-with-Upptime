@@ -9,6 +9,9 @@ sites:
   #   url: https://iguide.illinois.edu
   - name: I-GUIDE Platform JupyterHub
     url: https://jupyter.i-guide.io/_chp_healthz
+    timeout: 30
+    expectedStatusCodes:
+      - 200
   - name: I-GUIDE Platform User Environment
     url: https://platform.i-guide.io
   - name : I-GUIDE Platform Neo4J example API (connected-graph)
@@ -36,6 +39,9 @@ status-website:
       href: /Status-Monitoring-with-Upptime
     - title: I-GUIDE
       href: https://iguide.illinois.edu/
+
+# Retry 3 times before marking a website as down
+retry: 3
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
