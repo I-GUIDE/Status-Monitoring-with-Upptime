@@ -40,8 +40,14 @@ status-website:
     - title: I-GUIDE
       href: https://iguide.illinois.edu/
 
-# Retry 3 times before marking a website as down
-retry: 3
+# Retry 5 times before marking a website as down
+retry: 5
+# 3 second delay between checking each endpoint
+delay: 3000
+
+# Check every 10 mins
+workflowSchedule:
+  uptime: "*/10 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
