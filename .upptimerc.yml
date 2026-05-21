@@ -12,6 +12,8 @@ sites:
     timeout: 30
     expectedStatusCodes:
       - 200
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; Upptime/1.0)"
   - name: I-GUIDE Platform User Environment
     url: https://platform.i-guide.io
   - name : I-GUIDE Platform Neo4J example API (connected-graph)
