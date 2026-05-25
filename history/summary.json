@@ -4,12 +4,12 @@
     "url": "https://jupyter.i-guide.io/_chp_healthz",
     "icon": "https://icons.duckduckgo.com/ip3/jupyter.i-guide.io.ico",
     "slug": "i-guide-platform-jupyter-hub",
-    "status": "up",
-    "uptime": "46.18%",
-    "uptimeDay": "29.68%",
-    "uptimeWeek": "46.18%",
-    "uptimeMonth": "46.18%",
-    "uptimeYear": "46.18%",
+    "status": "down",
+    "uptime": "46.62%",
+    "uptimeDay": "29.80%",
+    "uptimeWeek": "46.62%",
+    "uptimeMonth": "46.62%",
+    "uptimeYear": "46.62%",
     "time": 347,
     "timeDay": 135,
     "timeWeek": 347,
@@ -21,7 +21,8 @@
       "2026-05-21": 648,
       "2026-05-22": 113,
       "2026-05-23": 1094,
-      "2026-05-24": 1013
+      "2026-05-24": 1013,
+      "2026-05-25": 0
     }
   },
   {
