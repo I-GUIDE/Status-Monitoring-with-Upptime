@@ -9,7 +9,7 @@ sites:
     url: https://backend.i-guide.io/api/connected-graph
   - name : I-GUIDE Platform Authentication Backend
     url: https://platform.i-guide.io/auth/health
-  - name: I-GUIDE Bavkend SSL
+  - name: I-GUIDE Backend SSL
     url: https://backend.i-guide.io/api-docs/
     method: GET
     expectedStatusCodes:
