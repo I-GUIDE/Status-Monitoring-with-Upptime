@@ -4,9 +4,9 @@
     "url": "https://platform.i-guide.io",
     "icon": "https://icons.duckduckgo.com/ip3/platform.i-guide.io.ico",
     "slug": "i-guide-platform-user-environment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.96%",
@@ -25,7 +25,8 @@
       "2026-01-21": 19,
       "2026-02-01": 3,
       "2026-07-27": 85,
-      "2026-08-04": 33
+      "2026-08-04": 33,
+      "2026-08-09": 1
     }
   },
   {
