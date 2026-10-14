@@ -78,16 +78,16 @@
     "url": "https://backend.i-guide.io/api-docs/",
     "icon": "https://icons.duckduckgo.com/ip3/backend.i-guide.io.ico",
     "slug": "i-guide-backend-ssl",
-    "status": "degraded",
-    "uptime": "99.58%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.58%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.57%",
     "time": 214,
-    "timeDay": 2116,
-    "timeWeek": 666,
-    "timeMonth": 296,
+    "timeDay": 1482,
+    "timeWeek": 616,
+    "timeMonth": 294,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2026-06-09": 61,
@@ -95,7 +95,7 @@
       "2026-09-07": 412,
       "2026-09-13": 1,
       "2026-09-27": 7,
-      "2026-10-14": 0
+      "2026-10-14": 25
     }
   }
 ]
