@@ -1,7 +1,7 @@
 url: https://backend.i-guide.io/api-docs/
-status: up
+status: degraded
 code: 200
-responseTime: 82
-lastUpdated: 2026-10-13T23:08:58.798Z
+responseTime: 4150
+lastUpdated: 2026-10-14T18:12:31.119Z
 startTime: 2026-06-09T17:21:20.835Z
 generator: Upptime <https://github.com/upptime/upptime>
