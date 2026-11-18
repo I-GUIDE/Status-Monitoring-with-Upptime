@@ -4,15 +4,15 @@
     "url": "https://platform.i-guide.io",
     "icon": "https://icons.duckduckgo.com/ip3/platform.i-guide.io.ico",
     "slug": "i-guide-platform-user-environment",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "96.53%",
+    "uptimeDay": "96.50%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.93%",
     "time": 139,
-    "timeDay": 271,
-    "timeWeek": 188,
+    "timeDay": 253,
+    "timeWeek": 194,
     "timeMonth": 241,
     "timeYear": 185,
     "dailyMinutesDown": {
@@ -83,9 +83,9 @@
     "slug": "i-guide-backend-ssl",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.60%",
     "time": 204,
     "timeDay": 254,
@@ -100,7 +100,7 @@
       "2026-09-27": 7,
       "2026-10-14": 25,
       "2026-11-09": 97,
-      "2026-11-18": 35
+      "2026-11-18": 46
     }
   }
 ]
